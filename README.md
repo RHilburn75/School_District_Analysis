@@ -24,6 +24,7 @@
 
 ### School Summary
 
+![image](https://user-images.githubusercontent.com/94253815/146627726-d0e3c462-44a1-419b-9f15-fc1b7ffbc249.png)
 
 
 ### Thomas High School Scores
