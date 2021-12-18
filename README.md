@@ -27,14 +27,6 @@
 ![image](https://user-images.githubusercontent.com/94253815/146627726-d0e3c462-44a1-419b-9f15-fc1b7ffbc249.png)
 
 
-### Thomas High School Scores
-
-
-
-![image](https://user-images.githubusercontent.com/94253815/146627971-c7a15ffe-64ae-4ef1-9964-ebe5165a517f.png)
-
-
-
 ### Thomas High School Math scores
 
 ![image](https://user-images.githubusercontent.com/94253815/146628529-ee026620-154c-406d-9f06-5ce9f4ed2fc8.png)
@@ -45,9 +37,7 @@
 ![image](https://user-images.githubusercontent.com/94253815/146628530-962123cd-a561-4264-a2b1-7445ee3b2da8.png)
 
 
-### Spending
-
-
+## Spending
 
 
 ### Resluts by School size
