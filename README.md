@@ -18,7 +18,14 @@
 
 
 ### District Summary
+
+![image](https://user-images.githubusercontent.com/94253815/146627702-6e947c5d-023f-459f-8cdd-75e820fab993.png)
+
+
 ### School Summary
+
+
+
 ### Thomas High School Scores
 ### Thomas High Scool Math scores
 ### Thomas High Scool Reading scores
