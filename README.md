@@ -28,9 +28,27 @@
 
 
 ### Thomas High School Scores
+
+
+
 ### Thomas High Scool Math scores
+
+
+
 ### Thomas High Scool Reading scores
+
+
+
 ### Spending
+
+
+
 ### Resluts by School size
+
+
+
 ### Results by School Type
+
+
+
 ### Summary
