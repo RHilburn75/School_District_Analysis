@@ -56,6 +56,7 @@
 
 ### Results by School Type
 
+![image](https://user-images.githubusercontent.com/94253815/146628707-b84e640b-5579-4c09-9b05-0a0abeab71fe.png)
 
 
 ### Summary
