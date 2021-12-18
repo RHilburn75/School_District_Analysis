@@ -28,6 +28,7 @@
 
 
 ### Thomas High School Scores
+![image](https://user-images.githubusercontent.com/94253815/146627971-c7a15ffe-64ae-4ef1-9964-ebe5165a517f.png)
 
 
 
