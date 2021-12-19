@@ -49,6 +49,7 @@ The school board has requested the following deliverables:
 
 ### Results by School size
 
+![image](https://user-images.githubusercontent.com/94253815/146686761-5dc370b0-1d57-43fd-b95b-dc82bac59d8b.png)
 
 
 
