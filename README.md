@@ -1,5 +1,9 @@
 # School_District_Analysis
+The school board has has brough tto light of possible evidence of acedemic dishonesty, highlighting two specific areas in academics, reading and math. Due to this evidence, the school has hired an outside resource to look nto the data to prove or disprove the allegations.  They do not know of the full extent of the a;;egations, but in order to uphold the the state testing standard, they have have hired a 3rd party to dig into the data to see what it reveals.
 
+The school board has requested the following deliverables:
+1. District Summary snapshot in a table format
+2. School summary in a table format
 
 
 ## Development Platforms
