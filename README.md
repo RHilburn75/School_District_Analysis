@@ -62,7 +62,7 @@ Just like the math scores, the reading scores were analized the same way.  As a 
 
 ### Results by School size
 
-![image](https://user-images.githubusercontent.com/94253815/146686761-5dc370b0-1d57-43fd-b95b-dc82bac59d8b.png)
+
 
 
 
