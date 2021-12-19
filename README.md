@@ -61,6 +61,7 @@ Just like the math scores, the reading scores were analized the same way.  As a 
 
 
 ### Results by School size
+By analizing the table below, it appears that that when schools spend between $551  - $600 per student, their performance is better.
 
 ![image](https://user-images.githubusercontent.com/94253815/146687944-f85c2bf6-40fa-415e-91dc-9d1b9e9f6be2.png)
 
