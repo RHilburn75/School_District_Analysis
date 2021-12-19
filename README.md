@@ -3,7 +3,11 @@ The school board has has brough tto light of possible evidence of acedemic disho
 
 The school board has requested the following deliverables:
 1. District Summary snapshot in a table format
-2. School summary in a table format
+2. School summary in a table format.
+3. Thomas High School math and reading scores.
+4. Spending
+    - Results by school size
+    - Results by school type
 
 
 ## Development Platforms
@@ -32,7 +36,7 @@ The school board has requested the following deliverables:
 
 
 ### Thomas High School Math scores
-
+Math scores were placed in NaN (not a number) so there was not impact on the claculating the scores. There was no placement of the "0" because it would have negative impact on the results.
 ![image](https://user-images.githubusercontent.com/94253815/146628529-ee026620-154c-406d-9f06-5ce9f4ed2fc8.png)
 ![image](https://user-images.githubusercontent.com/94253815/146685694-7e0e8c43-03cc-4ae3-88c7-ec92e37351b0.png)
 
