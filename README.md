@@ -69,7 +69,7 @@ By analizing the table below, it appears that that when schools spend between $5
 
 
 ### Results by School Type
-
+After analizing the data, it appears that charter schools perform betther than district schools
 ![image](https://user-images.githubusercontent.com/94253815/146628707-b84e640b-5579-4c09-9b05-0a0abeab71fe.png)
 
 
