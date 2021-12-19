@@ -37,6 +37,8 @@
 
 ![image](https://user-images.githubusercontent.com/94253815/146628530-962123cd-a561-4264-a2b1-7445ee3b2da8.png)
 
+![image](https://user-images.githubusercontent.com/94253815/146685740-d336a368-04f6-42fa-a86c-9c9824d8bd4f.png)
+
 
 ## Spending
 
