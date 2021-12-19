@@ -47,9 +47,9 @@ The school board has requested the following deliverables:
 ## Spending
 
 
-### Resluts by School size
+### Results by School size
 
-![image](https://user-images.githubusercontent.com/94253815/146628683-c856fe33-1847-43d1-933b-9fa7bbbe3877.png)
+
 
 
 ### Results by School Type
