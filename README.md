@@ -79,3 +79,13 @@ Small and meduim schools are similar in overall performance
 
 
 ### Summary
+In looking at the total data gathered for the district, and using that to see where Thomas High school scored, here is what was found:
+ - Total students in district vs THS - THS has 4% of the total student headcount
+ - Also THS has 4% of th total district budget
+ - Avg Math score in the district= 78.9% - THS is 83.3%.  Above the district avg.
+ - Avg Reading score in the district = 81.9% - THS is 83.8$.  Above the district avg
+ - Avg % passing Math in district = 74.8% - THS is 66.9% . Below the district avg.
+ - Avg % reading Math in district = 85.7% - THS is 69.6% . Below the district avg.
+ - Overall passing % in district = 64.9% - THS is even at 65.0%
+
+
