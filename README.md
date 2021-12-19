@@ -74,7 +74,7 @@ By analizing the table below, it appears that that when schools spend between $5
 After analizing the data, it appears that charter schools perform betther than district schools
 ![image](https://user-images.githubusercontent.com/94253815/146628707-b84e640b-5579-4c09-9b05-0a0abeab71fe.png)
 
-
+Small and meduim schools are similar in overall performance
 ![image](https://user-images.githubusercontent.com/94253815/146688223-60e4bd2a-9877-4748-9c80-015ef3ac1c50.png)
 
 
