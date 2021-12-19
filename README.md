@@ -30,6 +30,8 @@ The school board has requested the following deliverables:
 ![image](https://user-images.githubusercontent.com/94253815/146627702-6e947c5d-023f-459f-8cdd-75e820fab993.png)
 
 
+
+
 ### School Summary
 
 ![image](https://user-images.githubusercontent.com/94253815/146627726-d0e3c462-44a1-419b-9f15-fc1b7ffbc249.png)
@@ -71,6 +73,9 @@ By analizing the table below, it appears that that when schools spend between $5
 ### Results by School Type
 After analizing the data, it appears that charter schools perform betther than district schools
 ![image](https://user-images.githubusercontent.com/94253815/146628707-b84e640b-5579-4c09-9b05-0a0abeab71fe.png)
+
+
+![image](https://user-images.githubusercontent.com/94253815/146688223-60e4bd2a-9877-4748-9c80-015ef3ac1c50.png)
 
 
 ### Summary
