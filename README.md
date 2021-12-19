@@ -41,12 +41,17 @@ Math scores were placed in NaN (not a number) so there was not impact on the cla
  - 10th Grade - 83.1
  - 11th Grade - 83.5
  - 12th Grade - 83.5
+ 
 ![image](https://user-images.githubusercontent.com/94253815/146628529-ee026620-154c-406d-9f06-5ce9f4ed2fc8.png)
 ![image](https://user-images.githubusercontent.com/94253815/146685694-7e0e8c43-03cc-4ae3-88c7-ec92e37351b0.png)
 
-
 ### Thomas High Scool Reading scores
-
+Just like the math scores, the reading scores were analized the same way.  As a result, the 9th grade reading scores were also placed in a NaN value.  As noted in the table below, the following are the results by grade:
+ - 9th Grade - NaN
+ - 10th Grade - 84.3
+ - 11th Grade - 83.6
+ - 12th Grade - 84.3
+ - 
 ![image](https://user-images.githubusercontent.com/94253815/146628530-962123cd-a561-4264-a2b1-7445ee3b2da8.png)
 
 ![image](https://user-images.githubusercontent.com/94253815/146685740-d336a368-04f6-42fa-a86c-9c9824d8bd4f.png)
