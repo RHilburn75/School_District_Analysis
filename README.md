@@ -36,7 +36,11 @@ The school board has requested the following deliverables:
 
 
 ### Thomas High School Math scores
-Math scores were placed in NaN (not a number) so there was not impact on the claculating the scores. There was no placement of the "0" because it would have negative impact on the results.
+Math scores were placed in NaN (not a number) so there was not impact on the claculating the scores. There was no placement of the "0" because it would have negative impact on the results. As noted in the table below, the ninth grade results were placed in a NaN. The following are the results by grade:
+ - 9th Grade - NaN
+ - 10th Grade - 83.1
+ - 11th Grade - 83.5
+ - 12th Grade - 83.5
 ![image](https://user-images.githubusercontent.com/94253815/146628529-ee026620-154c-406d-9f06-5ce9f4ed2fc8.png)
 ![image](https://user-images.githubusercontent.com/94253815/146685694-7e0e8c43-03cc-4ae3-88c7-ec92e37351b0.png)
 
