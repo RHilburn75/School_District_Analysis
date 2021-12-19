@@ -30,6 +30,7 @@
 ### Thomas High School Math scores
 
 ![image](https://user-images.githubusercontent.com/94253815/146628529-ee026620-154c-406d-9f06-5ce9f4ed2fc8.png)
+![image](https://user-images.githubusercontent.com/94253815/146685694-7e0e8c43-03cc-4ae3-88c7-ec92e37351b0.png)
 
 
 ### Thomas High Scool Reading scores
